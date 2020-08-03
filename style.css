@@ -1,3 +1,21 @@
-p{
-  color: red;
+
+h2{
+  color: mediumseagreen;
+}
+
+.container{
+  padding: 5rem;
+  background-color: gainsboro;
+}
+
+em{
+  color: dimgray;
+}
+
+a:link{
+  color: rgb(74, 89, 95);
+}
+
+a:visited{
+  color: rgb(167, 167, 167);
 }
