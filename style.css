@@ -1,11 +1,31 @@
+@font-face{
+  font-family: Rubik;
+  src: url(./Rubik/Rubik-VariableFont_wght.ttf);
+}
 
-h2{
-  color: mediumseagreen;
+body{
+  font-family: Rubik;
+  background-color: #333333;
+  margin: 0%;
 }
 
 .container{
-  padding: 5rem;
-  background-color: gainsboro;
+  display: grid;
+}
+
+.resume{
+  max-width: 50rem;
+  margin: 2em auto;
+  padding: 3rem 5rem;
+  background-color: #DDDDDD;
+}
+
+header{
+  text-align: center;
+}
+
+h2{
+  color: #4BB871;
 }
 
 em{
@@ -18,4 +38,8 @@ a:link{
 
 a:visited{
   color: rgb(167, 167, 167);
+}
+
+.skills{
+  display: grid;
 }
