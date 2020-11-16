@@ -3,6 +3,12 @@
   src: url(./Rubik/Rubik-VariableFont_wght.ttf);
 }
 
+@font-face{
+  font-family: Rubik;
+  src: url(./Rubik/static/Rubik-SemiBold.ttf);
+  font-weight: bold;
+}
+
 body{
   font-family: Rubik;
   background-color: #333333;
