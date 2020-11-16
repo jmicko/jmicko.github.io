@@ -1,1 +1,1 @@
-# johnmicko.github.io
+# Resume of John Micko
